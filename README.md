@@ -57,4 +57,8 @@ Extensiones para perfiles, dashboards, herramientas de testing, y más. Todo int
 Invitamos a Microsoft, a la comunidad de desarrolladores, y a los líderes técnicos a construir juntos el futuro del desarrollo.  
 **Windows Devs no es solo una idea: es una necesidad.**
 
+---
+
+> ⚠️ *Windows Devs* es una iniciativa conceptual independiente y no está afiliada, respaldada ni asociada con Microsoft ni con la marca Windows.
+
 > *Propuesta conceptualizada por Berto Rojas, arquitecto de software con enfoque en reproducibilidad, claridad de reglas de negocio y excelencia técnica.*
