@@ -1,14 +1,12 @@
 # Windows Devs  
 *El sistema operativo que los desarrolladores merecen.*
 
-📄 Este manifiesto también está disponible en [English](README.en.md)
-
 ---
 
 
 ## 📘 Manifiesto Windows Devs
 
-- [Introducción (español)](manifesto/01-introduccion.md)
+- [Introducción (Español)](manifesto/01-introduccion.md)
 - [Introduction (English)](manifesto.en/01-introduction.md)
 
 ---
