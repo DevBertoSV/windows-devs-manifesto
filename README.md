@@ -4,6 +4,12 @@
 📄 Este manifiesto también está disponible en [English](README.en.md)
 
 
+## 📘 Manifiesto Windows Devs
+
+- [Introducción (español)](manifesto/01-introduccion.md)
+- [Introduction (English)](manifesto.en/01-introduction.md)
+
+
 ## 🧭 Introducción
 
 Durante años, los desarrolladores han tenido que adaptar sus flujos de trabajo a sistemas operativos que no fueron diseñados pensando en ellos. Configurar entornos, gestionar perfiles, simular producción, optimizar recursos… todo requiere tiempo, esfuerzo y experiencia. Y aunque Microsoft ha dado pasos importantes hacia la comunidad dev, aún persiste un estigma: que Windows no es para desarrolladores.
