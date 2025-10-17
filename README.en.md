@@ -57,4 +57,4 @@ Extensions for profiles, dashboards, testing tools, and more —fully integrated
 We invite Microsoft, the developer community, and technical leaders to help build the future of development.  
 **Windows Devs is not just an idea —it’s a necessity.**
 
-> *Conceptualized by Berto, a software developer with a passion for reproducibility, business rule clarity, and technical excellence.*
+> *Conceptualized by Berto Rojas, a software developer with a passion for reproducibility, business rule clarity, and technical excellence.*
