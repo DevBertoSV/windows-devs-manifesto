@@ -57,6 +57,12 @@ Extensiones para perfiles, dashboards, herramientas de testing, y más. Todo int
 Invitamos a Microsoft, a la comunidad de desarrolladores, y a los líderes técnicos a construir juntos el futuro del desarrollo.  
 **Windows Devs no es solo una idea: es una necesidad.**
 
+## 🛠️ **Este proyecto está en construcción**
+
+El manifiesto es solo el primer paso. *Windows Devs* es una iniciativa en evolución: iremos alimentando este repositorio con ideas, propuestas técnicas, ejemplos reproducibles y herramientas que reflejen nuestra visión.
+
+Si compartes esta inquietud, te invito a seguir el proyecto, dejar tus comentarios o contribuir directamente. Esto apenas comienza.
+
 ---
 
 > ⚠️ *Windows Devs* es una iniciativa conceptual independiente y no está afiliada, respaldada ni asociada con Microsoft ni con la marca Windows.
