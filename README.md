@@ -1,6 +1,8 @@
 # Windows Devs  
 *El sistema operativo que los desarrolladores merecen.*
 
+📄 This manifesto is also available in [English](README.en.md)
+
 ---
 
 
