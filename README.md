@@ -3,11 +3,15 @@
 
 📄 Este manifiesto también está disponible en [English](README.en.md)
 
+---
+
 
 ## 📘 Manifiesto Windows Devs
 
 - [Introducción (español)](manifesto/01-introduccion.md)
 - [Introduction (English)](manifesto.en/01-introduction.md)
+
+---
 
 
 ## 🧭 Introducción
@@ -15,6 +19,8 @@
 Durante años, los desarrolladores han tenido que adaptar sus flujos de trabajo a sistemas operativos que no fueron diseñados pensando en ellos. Configurar entornos, gestionar perfiles, simular producción, optimizar recursos… todo requiere tiempo, esfuerzo y experiencia. Y aunque Microsoft ha dado pasos importantes hacia la comunidad dev, aún persiste un estigma: que Windows no es para desarrolladores.
 
 **Windows Devs** nace para cambiar eso. Es una visión de sistema operativo diseñado desde cero para quienes crean software. No es solo un entorno, es una plataforma viva, consciente y colaborativa.
+
+---
 
 
 ## ❌ Problemas que resuelve
@@ -25,31 +31,45 @@ Durante años, los desarrolladores han tenido que adaptar sus flujos de trabajo 
 - Falta de herramientas integradas para QA, DevOps y arquitectura
 - Estigmatización de Windows frente a Linux en el mundo dev
 
+---
+
 
 ## 🧩 Componentes clave
 
 ### 🔧 Perfiles inteligentes
 Gestión automática de entornos `dev`, `test` y `prod`, con configuración de variables, puertos, servicios y recursos.
 
+---
+
 
 ### 🧭 VS Code como navegador
 Navegación web desde VS Code con capacidad de inspección, extracción de componentes y generación de proyectos desde páginas reales.
+
+---
 
 
 ### 🧠 Copilot especializado
 Roles como `Senior Copilot`, `QA Copilot` y `DevOps Copilot` para refactorización, generación de pruebas, análisis de arquitectura y más.
 
+---
+
 
 ### 🧪 Simulación de producción
 Servidores embebidos + máquinas virtuales para replicar entornos reales sin salir del sistema operativo.
+
+---
 
 
 ### ⚙️ Gestión inteligente de recursos
 Aislamiento y priorización de procesos críticos para evitar cuellos de botella y garantizar fluidez en pruebas y despliegues.
 
+---
+
 
 ### 🛒 Marketplace y extensiones
 Extensiones para perfiles, dashboards, herramientas de testing, y más. Todo integrado y versionado.
+
+---
 
 
 ## 💰 Modelo de negocio
@@ -60,6 +80,7 @@ Extensiones para perfiles, dashboards, herramientas de testing, y más. Todo int
 - Roles Copilot como servicio premium
 - Certificaciones y formación oficial
 
+---
 
 ## 📈 Impacto esperado
 
@@ -68,12 +89,14 @@ Extensiones para perfiles, dashboards, herramientas de testing, y más. Todo int
 - Democratización del desarrollo profesional
 - Reconciliación cultural entre Windows y la comunidad dev
 
+---
 
 ## 🤝 Llamado a la acción
 
 Invitamos a Microsoft, a la comunidad de desarrolladores, y a los líderes técnicos a construir juntos el futuro del desarrollo.  
 **Windows Devs no es solo una idea: es una necesidad.**
 
+---
 
 ## 🛠️ **Este proyecto está en construcción**
 
