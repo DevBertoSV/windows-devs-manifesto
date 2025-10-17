@@ -6,10 +6,38 @@
 ---
 
 
-## 📘 Manifiesto Windows Devs
+# Windows Devs Manifesto
 
-- [Introducción (Español)](manifesto/01-introduccion.md)
-- [Introduction (English)](manifesto.en/01-introduction.md)
+*Windows Devs* es una iniciativa abierta para transformar Windows en un sistema operativo pensado desde cero para desarrolladores. Este repositorio contiene el manifiesto técnico que guía esa visión, en versiones en español e inglés.
+
+---
+
+## 📘 Manifiesto en español
+
+1. [Introducción](manifesto/01-introduccion.md)
+2. [Problemas actuales](manifesto/02-problemas.md)
+3. *(Próximamente)* Principios de diseño
+4. *(Próximamente)* Propuesta de solución
+5. *(Próximamente)* Casos de uso
+6. *(Próximamente)* Hoja de ruta
+7. *(Próximamente)* Licencia y descargo
+
+---
+
+## 📙 Manifesto in English
+
+1. [Introduction](manifesto.en/01-introduction.md)
+2. [Current problems](manifesto.en/02-problems.md)
+3. *(Coming soon)* Design principles
+4. *(Coming soon)* Proposed solution
+5. *(Coming soon)* Use cases
+6. *(Coming soon)* Roadmap
+7. *(Coming soon)* License and disclaimer
+
+---
+
+🛠️ Este proyecto está en evolución. Iremos alimentando este repositorio con ideas, propuestas técnicas y herramientas reproducibles.  
+💬 ¿Te interesa colaborar o dejar feedback? ¡Bienvenido!
 
 ---
 
